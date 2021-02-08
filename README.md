@@ -20,3 +20,13 @@ Each row in the table should be a pizza component and when you click the "Edit" 
 The pizza form will then render the information about the pizza in the form, which will be editable.
 
 When the form is submitted, the information should be reflected in your table and persist in the backend.
+
+
+Everything after this is a bonus from Ix.
+
+Bonus: Add a favorites pizza component. Clicking a pizza in the main section should add it to the favorites section.
+
+Clicking the pizza while it's in the favorites section should remove it from the favorites section. Hint
+
+Bonus: The pizza should only appear in one section at a time.
+
